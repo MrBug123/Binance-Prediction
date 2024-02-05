@@ -1,5 +1,3 @@
-Certainly! Here's a complete README file for your GitHub repository:
-
 ```markdown
 # Binance Price Prediction with Random Forest
 

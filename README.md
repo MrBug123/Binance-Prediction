@@ -48,23 +48,4 @@
 - Always practice responsible algorithmic trading and consider the risks involved.
 - Consult with financial experts before making any trading decisions.
 
-## Contributing
 
-If you'd like to contribute to this project, follow these steps:
-
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to explore and modify the code to suit your trading strategy and preferences.
-
-Happy coding! 🚀🐍
-```
-
-This README file includes sections for installation, usage, features, additional information, contribution guidelines, and licensing information. Make sure to replace "YourUsername" with your actual GitHub username.

@@ -48,4 +48,4 @@
 - Always practice responsible algorithmic trading and consider the risks involved.
 - Consult with financial experts before making any trading decisions.
 
-
+"BINANCE" I add it for client only.
